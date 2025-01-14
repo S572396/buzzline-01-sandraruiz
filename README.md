@@ -1,4 +1,5 @@
 # buzzline-01-case
+# Project by Sandra Ruiz
 
 This project introduces streaming data. 
 The Python language includes generators - we'll use this feature to generate some streaming buzzline messages. 
@@ -30,7 +31,7 @@ You are encouraged to install both and practice multiple versions.
 If space is an issue, we only need 3.11 in this course. 
 For more information, See [PYTHON-VERSIONS.md](docs/PYTHON-VERSIONS.md).
 
-## Task 2. Copy This Example Project & Change `case` to `yourname` (customized)
+## Task 2. Copy This Example Project & Change `case` to `yourname` Sandra Ruiz (customized)
 
 Once the tools are installed, copy/fork this project into your GitHub account
 and create your own version of this project to run and experiment with. 
